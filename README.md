@@ -1,2 +1,0 @@
-# BigTurdService
-Dog Poop Cleanup
